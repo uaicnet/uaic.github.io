@@ -172,7 +172,7 @@ a:hover, a:active {
     top: 0;
     left: -320px;
     z-index: 9999;
-    width: 320px;
+    width: 400px;
     max-width: calc(100% - 120px);
     height: 100%;
     padding: 30px 15px;
@@ -246,7 +246,7 @@ a:hover, a:active {
 # Hero Section
 --------------------------------------------------------------*/
 .hero-slider {
-    max-height: 820px;
+    max-height: 300px;
 }
 
 .hero-content-wrap {
@@ -1896,7 +1896,7 @@ ul.tabs-nav .tab-nav.active {
     margin-top: 96px;
 }
 
-.contact-page-wrap .entry-content h2 {
+.contact-page-wrap .enhero-content-wraptry-content h2 {
     font-size: 24px;
     font-weight: 500;
 }
